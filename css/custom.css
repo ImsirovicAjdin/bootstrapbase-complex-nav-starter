@@ -1,3 +1,6 @@
 .nav-additional {
     float:right;
 }
+.nav.navbar-nav.navbar-right {
+    clear: both;
+}
